@@ -40,4 +40,5 @@ This project is open source and available under the MIT License
 
 
 👤 Author - Vansh Chandan
+
 📘 Personal Project for Learning Front-End Development
