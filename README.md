@@ -27,7 +27,7 @@ This is a personal project created to practice front-end development and improve
 📂 Project Structure
 
 To-Do List App/
-│
+
 ├── index.html        # Main HTML file
 
 ├── style.css         # CSS styling
